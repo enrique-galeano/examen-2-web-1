@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Open+Sans:300,400,700&display=swap');
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+	font-family: 'Open Sans', sans-serif;
+}
+/*para titulos font-family: 'Lobster', cursive;*/
+header{
+	background-color: #ff6796;
+}
+
+#slides{
+	background: #ff6796;
+	padding-bottom: 55px;
+}
+
+#slides img{
+	border: 10px solid rgba(#b91447, 0.66);
+	border-radius: 150px;
+}
+
+#work{
+	padding-top: 5%;
+	background-color: #ffffff;
+	margin-bottom: 55px;
+}
+
+#work img{
+	border: 10px solid #FF6796;
+	border-radius: 150px;
+}
+#work h1{
+	color: #444444;
+}
+
+#products{
+	background-color: #01BEFE;
+	padding-bottom: 55px;
+}
+
+#products h1{
+	padding-top: 5%;
+	color: #ffffff;
+	padding-bottom: 3%;
+}
+
+#features{
+	background: #FF6796;
+	padding-bottom: 55px;
+}
+#features h1{
+	padding-top: 5%;
+	color: #ffffff;
+	padding-bottom: 3%;
+}
+#about{
+	padding-top: 5%;
+	margin-bottom: 55px;
+}
+
+#about h1{
+	padding-top: 5%;
+	color: #444444;
+	padding-bottom: 3%;
+	text-align: left;
+}
+#about .btn-dark{
+	background-color: #01BEFE;
+	color: #ffffff;
+	font-size: 14px;
+	text-transform: uppercase;
+	padding: 10px 20px;
+	margin-top: 40px;
+	border: 0;
+	border-radius: 100px;
+}
+
+#team{
+	padding-top: 5%;
+	background-color: #01BEFE;
+	padding-bottom: 55px;
+}
+
+#team h1{
+	color:#ffffff;
+}
+
+#team img{
+	border: 10px solid #FF6796;
+	border-radius: 100%;
+}
+
+#team article{
+	width: 100%;
+}
+
+#footer-background{
+	background-color: #231D1D;
+	padding-top: 10%;
+	padding-bottom: 55px;
+}
+
+#footer-background article{
+	width: 100%;
+}
+
+#footer-background h3{
+	color: #ffffff;
+	font-size: 15px;
+}
+
+
+.parrafo-info{
+	color: #444444;
+	text-align: center;
+}
+
+i{
+	font-size: 50px;
+	color: #ffffff;
+	text-align: center;
+	width: 100%;
+	padding-bottom: 7%;
+}
+
+.titulo-peque{
+	text-align: center;
+	color: #ffffff;
+	font-family: 'Lobster', cursive;
+	margin-top: 35px;
+}
+
+.modify-i i{
+	font-size: 20px;
+	padding:5px 10px 10px 10px;
+	color: #ffffff;
+	text-align: center;
+	width: 100%;
+	padding-bottom: 7%;
+	border: 1px solid #ffffff;
+	border-radius: 10px;
+}
+
+
+.list-redes{
+	margin-top: 30px;
+}
+.list-redes i{
+	background-color: #231D1D;
+	color: #fff;
+	font-size: 20px;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	border: 2px solid #ffffff;
+	border-radius: 100%;
+}
+
+.texto-redes a{
+	color: #fff;
+}
+
+/*.border-text{
+	border-top: 1px solid rgba(57, 54, 57, 0.83);
+	border-style: dotted;
+}*/
+
+.border-text h2{
+	color: #ffffff;
+	font-size: 15px;
+	text-align: center
+}
+
+.info-peque{
+	text-align: center;
+	color: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+.titulos h1{
+	font-family: 'Lobster', cursive;
+	font-size: 45px;
+	text-align: center;
+	margin-bottom: 50px;
+}
